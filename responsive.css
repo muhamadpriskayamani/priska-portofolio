@@ -1,0 +1,51 @@
+@media screen and (max-width: 520px){
+    ul {
+        width: 230px;
+    }
+    .image img{
+        width: 500px;
+        height: 350px;
+    }
+    .content h4{
+        font-size: 15px;
+    }
+    .content h1{
+        font-size: 20px
+    }
+    .content a {
+        font-size: 10px;
+    }
+    .about-me img{
+        width: 200px;
+        margin-top: 30px;
+    }
+    .about-text p{
+        font-size: 14px;
+    }
+    .about-text h2{
+        font-size: 50px;
+    }
+    .pra p{
+        font-size: 10px;
+    }
+    .card h5{
+        font-size: 10px;
+    }
+    .card {
+        height: 200px;
+        width: 150px;
+        padding: 10px 20px;
+    }
+    .title h2{
+        font-size: 40px;
+    }
+    .contact {
+        width: 40px;
+        padding: 80px;
+        height: 100px;
+    }
+    .contact h4{
+        display: flex;
+        padding-right: 20px;
+    }
+}
